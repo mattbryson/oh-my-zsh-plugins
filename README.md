@@ -1,5 +1,6 @@
-oh-my-zsh-plugins - https://github.com/robbyrussell/oh-my-zsh
+oh-my-zsh-plugins 
 =================
+https://github.com/robbyrussell/oh-my-zsh
 
 Plugins for the oh-my-zsh shell.
 
