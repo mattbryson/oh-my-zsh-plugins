@@ -1,8 +1,7 @@
 oh-my-zsh-plugins 
 =================
-https://github.com/robbyrussell/oh-my-zsh
 
-Plugins for the oh-my-zsh shell.
+Plugins for the oh-my-zsh shell. https://github.com/robbyrussell/oh-my-zsh
 
 *osx-mb*
 
